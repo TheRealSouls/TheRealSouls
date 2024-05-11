@@ -1,6 +1,6 @@
 - 👋 Hi, I’m** @TheRealSouls**
-- 👀 **I’m interested in** Biology, Computer Science, Chemistry, Mathematics, photography, and language learning! Bit nerdy, I know.
-- 🌱 **I’m currently learning** JavaScript and how to impliment it into websites.
+- 👀 **I’m interested in** biology/geography/the natural world, computer science, speedcubing, reading and doing stupid things with my friends
+- 🌱 **I’m currently learning** JavaScript and how to impliment it into websites, HTML/CSS, studying for exams
 -  📫 **Contacts:**
 - **Email:** matas.roda@gmail.com
-- **Discord:** TheRealSouls#4167
+- **Discord:** realsouls

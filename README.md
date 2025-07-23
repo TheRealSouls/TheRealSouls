@@ -1,9 +1,13 @@
-<h1 align="center">hi 👋, i'm TheRealSouls</h1>
+<h1 align="center">hi 👋, i'm TheRealSouls // matas roda</h1>
 <h3 align="center">frontend, multidisciplinary web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealsouls&label=Profile%20views&color=0e75b6&style=flat" alt="therealsouls" /> </p>
+<p align="center">
+  <img src="https://media.tenor.com/_Xl5kVJ-dDoAAAAj/snoopy.gif" alt="silly snoopy sleeping" width="300">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealsouls" alt="therealsouls" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=therealsouls&label=Profile%20views&color=0e75b6&style=flat" alt="therealsouls" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealsouls" alt="therealsouls" /></a> </p>
 
 - 🔭 i’m currently working on **harvard's CS50 course and projects.**
 

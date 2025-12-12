@@ -9,11 +9,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealsouls" alt="therealsouls" /></a> </p>
 
-- 🔭 i’m currently working on **harvard's CS50 course and projects.**
+- 🔭 i’m currently working on **nothing :)**
 
-- 🌱 i’m currently learning **flask.**
+- 🌱 i’m currently learning **React.**
 
-- 👯 I’m looking to collaborate on **front-end projects.**
+- 👯 I’m looking to collaborate on **full-stack projects.**
 
 - 🤝 i’m looking for help with **opportunities to improve my coding.**
 
@@ -21,7 +21,7 @@
 
 - 📫 how to reach me: **matas.roda@gmail.com**
 
-- ⚡ fun fact: **i write poetry in my spare time.**
+- ⚡ fun fact: **i am also a great debater :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealsouls" alt="therealsouls" /></a> </p>
 
-- 🔭 i’m currently working on **nothing :)**
+- 🔭 i’m currently working on **my python skills!**
 
 - 🌱 i’m currently learning **React.**
 
